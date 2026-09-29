@@ -1,8 +1,13 @@
-# 👨‍💻 Eryck Cartman
+## 🚀 What I Work With
 
-### Full-Stack Developer | Linux | Automation
-
-Developer focused on creating web and mobile applications, automation, and server-side solutions, utilizing modern technologies and various development stacks.
+* 🌐 Web applications and APIs
+* 📱 Mobile applications with React Native
+* 🐍 Backend development with Python, Django and Flask
+* 🐧 Linux servers and VPS
+* 🐳 Docker and containerized environments
+* 🗄️ Relational and NoSQL databases
+* ⚙️ Shell scripts and automations
+* 🔧 System integration and custom solutions
 
 ---
 
@@ -36,16 +41,3 @@ Developer focused on creating web and mobile applications, automation, and serve
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square\&logo=gnu-bash\&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS-333333?style=flat-square\&logo=serverfault\&logoColor=white)
-
----
-
-## 🚀 What I Work With
-
-* 🌐 Web applications and APIs
-* 📱 Mobile applications with React Native
-* 🐍 Backend development with Python, Django and Flask
-* 🐧 Linux servers and VPS
-* 🐳 Docker and containerized environments
-* 🗄️ Relational and NoSQL databases
-* ⚙️ Shell scripts and automations
-* 🔧 System integration and custom solutions
