@@ -3,11 +3,6 @@
 * 🌐 Web applications and APIs
 * 📱 Mobile applications with React Native
 * 🐍 Backend development with Python, Django and Flask
-* 🐧 Linux servers and VPS
-* 🐳 Docker and containerized environments
-* 🗄️ Relational and NoSQL databases
-* ⚙️ Shell scripts and automations
-* 🔧 System integration and custom solutions
 
 ---
 
