@@ -1,10 +1,8 @@
-## 🚀 What I Work With
+## 👨‍💻 What I Work With
 
-* 🌐 Web applications and APIs
-* 📱 Mobile applications with React Native
-* 🐍 Backend development with Python, Django and Flask
-
----
+* 🌐 Web applications and APIs.
+* 📱 Mobile applications with React Native.
+* 🐍 Backend development with Python, Django and Flask.
 
 ## 🛠️ Skills
 
